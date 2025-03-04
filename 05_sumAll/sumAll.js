@@ -30,11 +30,3 @@ module.exports = sumAll;
 //add that to the sum
 //repeat previous steps until the Previous number is equel or bigger than the end number
 //
-
-//   if (
-//     typeof startNumber === "number" ||
-//     (typeof endNumber === "number" && !Number.isInteger(startNumber)) ||
-//     !Number.isInteger(endNumber)
-//   ) {
-//     return err;
-//   }
